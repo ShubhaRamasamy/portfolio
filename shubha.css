@@ -1,0 +1,36 @@
+h1{
+    font-size: 60px;
+    font-weight: 700;
+}
+.highlight{
+    color: blueviolet;
+}
+nav ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    margin-left:70vh;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+a:hover{
+    color: blue;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    position: absolute;
+    left:70%;
+    bottom:50%;
+}
+button{
+    background-color:white;
+    border-radius: 5px;
+}
+button:hover{
+    background-color:grey;
+}
