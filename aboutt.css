@@ -17,11 +17,12 @@ img{
     height: 200px;
     border-radius: 150px;
     
+    
 }
 h1{
     text-decoration: double;
 }
-.col-md-2{
+.col-md-3{
     background-color:blanchedalmond;
     font-size: small;
     
