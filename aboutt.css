@@ -16,18 +16,31 @@ img{
     width: 200px;
     height: 200px;
     border-radius: 150px;
-    
-    
 }
 h1{
     text-decoration: double;
+    margin-top: 5%;
+    font-style: oblique;
+}
+h3{
+    font-style:oblique;
 }
 .col-md-3{
-    background-color:blanchedalmond;
-    font-size: small;
+    font-size: 12px;
     
 }
 h5{
-    color:grey;
-    text-align: center;
+    color:black;
+    text-align:none;
+}
+img{
+    margin-left: 20%;
+}
+.skill{
+    font-size: 25px;
+    font-weight: bolder;
+    align-content: center;
+}
+.point{
+    margin-left: 5%;
 }
